@@ -1,0 +1,16 @@
+.logo span,
+.link-active,
+.navbar-menu a:hover,
+.nav-search-btn{
+  color:  #66a7d5!important;
+}
+ /*Background*/
+.nav-new span,
+.page-navigate a:hover,
+.page-navigate span{
+  background:  #66a7d5 !important;
+}
+  /*Outline*/
+  .nav-search-input:focus{
+    outline-color: #66a7d5 !important;
+  }
