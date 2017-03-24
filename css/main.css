@@ -1910,6 +1910,7 @@ html {
   color: #eee;
   text-decoration: none;
   font-size: 16px;
+   max-height:50px;
 }
 
 #nav-form-search {
