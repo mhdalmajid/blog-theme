@@ -1,4 +1,4 @@
 # blog-theme
 first commit
 
-## https://hamodey85.github.io/blog-theme/
+https://mhdalmajid.github.io/blog-theme/
